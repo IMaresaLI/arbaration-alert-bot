@@ -212,7 +212,6 @@ if __name__ == "__main__":
                 print("Symbols:", main.SYMBOLS)
                 print("Arbitrage Thresholds:", main.ARBITRAGE_THRESHOLD)
                 print("Timer Interval:", main.TIMER_INTERVAL, "seconds")
-                print("Multiprocessing:", main.MULTI_PROCESSING)
                 print("Save Prices:", main.SAVE_SMI)
                 print("Exchanges Enabled:")
                 for symbol in main.SYMBOLS:
